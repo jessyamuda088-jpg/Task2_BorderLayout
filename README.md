@@ -16,6 +16,9 @@ A Java Swing application demonstrating the use of BorderLayout.
 - **NORTH** : Application title
 - **WEST** : Three option buttons
 - **CENTER** : Scrollable text field
+  
+- ## SonarQube
+Quality analysis with SonarCloud.
 - **SOUTH** : Submit button
 
 ## Testing
